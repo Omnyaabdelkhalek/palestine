@@ -321,13 +321,9 @@ flex-direction: column;
 .image2-1 img{
   width: 100%;
 }
-.main-icon,
-.grid1 ,
-.grid2 ,
-.grid3 ,
-.grid4 {
-width: 200%;
-height: 200%;
+.main-icon a {
+width: 200px;
+height: 200px;
 }
 
 }
