@@ -326,8 +326,8 @@ flex-direction: column;
 .grid2 ,
 .grid3 ,
 .grid4 {
-width: 800px;
-height: 800px;
+width: 200%;
+height: 200%;
 }
 
 }
