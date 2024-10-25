@@ -20,11 +20,7 @@ html {
   justify-content: center;
   align-items: center;
 }
-.carousel-item img {
-  object-fit: cover;
- width:100%;
-  height:100%;
-}
+
 
 .main-icon {
   width: 200px;
