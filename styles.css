@@ -109,6 +109,9 @@ html {
   background-position: center;
   height: 100vh;
 }
+.carousel-item img {
+  object-fit: cover;
+}
 
 .home-page {
   background-image: url('48/614.jpg');
