@@ -22,12 +22,10 @@ html {
 }
 .carousel-item img {
   object-fit: cover;
-  max-width: 100%;
-  height: auto;
+ width:100%;
+  height:100%;
 }
-.carousel-item img {
-  max-height: 100vh;
-}
+
 .main-icon {
   width: 200px;
   height: 200px;
