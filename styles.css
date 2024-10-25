@@ -20,7 +20,14 @@ html {
   justify-content: center;
   align-items: center;
 }
-
+.carousel-item img {
+  object-fit: cover;
+  max-width: 100%;
+  height: auto;
+}
+.carousel-item img {
+  max-height: 100vh;
+}
 .main-icon {
   width: 200px;
   height: 200px;
